@@ -18,4 +18,4 @@ GRC engineer focused on turning controls into code and evidence into data. I bui
 **Planned next:** [OSCAL SSP generator](https://github.com/n2bright/oscal-ssp-generator) · [Policy-as-code guardrails](https://github.com/n2bright/policy-as-code-guardrails) · [AI vendor risk triage](https://github.com/n2bright/ai-vendor-risk-triage)
 
 ## 📫 Connect
-[Portfolio](https://nikosamofa.com)
+[LinkedIn](https://www.linkedin.com/in/nikosamofa) · [Portfolio](https://nikosamofa.com)
