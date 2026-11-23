@@ -11,11 +11,11 @@ GRC engineer focused on turning controls into code and evidence into data. I bui
 | Project | What it shows | Status |
 |---|---|---|
 | [FedRAMP 20x evidence pipeline](https://github.com/n2bright/fedramp-20x-evidence-pipeline) | Automated KSI evidence from AWS, POA&M export, CI with OIDC | 🚧 |
+| [Vulnerability management program](https://github.com/n2bright/vuln-mgmt-program) | Tenable scanning, scripted remediation and POA&M tracking mapped to RA-5 / SI-2 / CA-5 | 🚧 |
 | [AI control-mapping assistant](https://github.com/n2bright/grc-control-mapper-ai) | RAG over 800-53/FedRAMP with citations and measured accuracy | 🚧 |
 | [M365 continuous compliance](https://github.com/n2bright/m365-continuous-compliance) | SCuBA baselines, CIS/800-53 mapping, drift tracking | 🚧 |
-| [OSCAL SSP generator](https://github.com/n2bright/oscal-ssp-generator) | YAML → OSCAL → readable SSP | 🚧 |
-| [Policy-as-code guardrails](https://github.com/n2bright/policy-as-code-guardrails) | Rego/Checkov policies that block non-compliant Terraform | 🚧 |
-| [AI vendor risk triage](https://github.com/n2bright/ai-vendor-risk-triage) | ISO 42001 / AI RMF scoring for AI vendors | 🚧 |
+
+**Planned next:** [OSCAL SSP generator](https://github.com/n2bright/oscal-ssp-generator) · [Policy-as-code guardrails](https://github.com/n2bright/policy-as-code-guardrails) · [AI vendor risk triage](https://github.com/n2bright/ai-vendor-risk-triage)
 
 ## 📫 Connect
 [Portfolio](https://nikosamofa.com)
